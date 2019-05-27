@@ -24,6 +24,7 @@
 #     multiple = 1024 if a_kilobyte_is_1024_bytes else 1000
 
 #     # In Python, to use an "if" and "for" block, you use a colon and indent the corresponding code.
+
 #     for suffix in SUFFIXES[multiple]:
 #         size /= multiple
 #         if size < multiple:

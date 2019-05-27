@@ -10,7 +10,7 @@ To execute a module of code from the CLI, type `python` then the name of the mod
 
 
 
-#### Lists and Dictionaries
+### Lists and Dictionaries
 
 To create and print a list:
 ```
@@ -38,8 +38,11 @@ To create an print a dictionary:
 ```
 cat = dict()
 cat = {'name': 'Clove', 'age': 3, 'breed': 'calico shorthair'}
-
 ```
+
+#### Exercises
+
+[Python Stock Dictionary](https://github.com/nashville-software-school/bangazon-llc/blob/master/orientation/exercises/01_DICTIONARIES.md)
 
 
 
